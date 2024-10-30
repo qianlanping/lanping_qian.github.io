@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Qian Lanping_Academic personal website 钱蓝萍个人学术主页"
 title_separator          : "-"
-name                     : &name "Qian Lanping 钱蓝萍"
+name                     : "Qian Lanping 钱蓝萍"
 description              : &description "personal description 个人介绍"
 url                      : https://qianlanping.github.io/lanping_qian.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "https://s21.ax1x.com/2024/10/30/pAB3SfO.jpg"
   name             : "Qian Lanping"
-  pronouns         : "Dr."  
+  pronouns         : "she/her"  
   bio              : "Assistant Professor"
   location         : "Beijing"
   employer         : "Beijing University of Technoloy"
@@ -31,7 +31,7 @@ author:
   email            : "lanping.qian@bjut.edu.cn" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://s21.ax1x.com/2024/10/30/pAB3SfO.jpg"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=JEJl5wUAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-6931-2630"
