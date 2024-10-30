@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "Qian Lanping_Academic personal website 钱蓝萍个人学术主页"
 title_separator          : "-"
-name                     : &name "Qian Lanping (钱蓝萍)"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Qian Lanping 钱蓝萍"
+description              : &description "personal description 个人介绍"
+url                      : https://qianlanping.github.io/lanping_qian.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://qianlanping.github.io/lanping_qian.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,23 +22,23 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Qian Lanping"
+  pronouns         : "Dr."  
+  bio              : "Assistant Professor"
+  location         : "Beijing"
+  employer         : "Beijing University of Technoloy"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lanping.qian@bjut.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-6931-2630"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Qian-Lanping"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57202266794"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
