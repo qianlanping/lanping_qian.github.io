@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qian Lanpping"
+title: "Qian Lanpping (academic personal websites)"
 author_profile: true
 redirect_from: 
   - /about/
