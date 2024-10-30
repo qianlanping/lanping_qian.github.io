@@ -21,14 +21,14 @@ repository               : "https://qianlanping.github.io/lanping_qian.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : https://s21.ax1x.com/2024/10/30/pAB3SfO.jpg
-  name             : Qian Lanping
+  avatar           : "https://s21.ax1x.com/2024/10/30/pAB3SfO.jpg"
+  name             : "Qian Lanping"
   pronouns         : "she/her"  
-  bio              : Assistant Professor
-  location         : Beijing
-  employer         : Beijing University of Technoloy
-  uri              : "https://qianlanping.github.io/"
-  email            : lanping.qian@bjut.edu.cn"
+  bio              : "Assistant Professor"
+  location         : "Beijing"
+  employer         : "Beijing University of Technoloy"
+  uri              : https://qianlanping.github.io/lanping_qian.github.io/
+  email            : "lanping.qian@bjut.edu.cn"
 
   # Academic websites
   arxiv            : "https://s21.ax1x.com/2024/10/30/pAB3SfO.jpg"
